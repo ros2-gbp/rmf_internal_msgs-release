@@ -1,1 +1,0 @@
-PolygonVertex[] vertices
