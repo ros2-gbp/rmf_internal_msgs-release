@@ -1,2 +1,0 @@
-
-DoorSessions[] all_sessions
