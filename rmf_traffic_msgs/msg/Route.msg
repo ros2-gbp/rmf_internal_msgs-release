@@ -1,4 +1,0 @@
-
-string map
-
-Trajectory trajectory
