@@ -18,6 +18,9 @@ find_package(rmf_dispenser_msgs REQUIRED)
 find_package(rosidl_default_generators REQUIRED)
 
 set(msg_files
+  "msg/ApiRequest.msg"
+  "msg/ApiResponse.msg"
+  "msg/Assignment.msg"
   "msg/Delivery.msg"
   "msg/Behavior.msg"
   "msg/BehaviorParameter.msg"
@@ -32,16 +35,20 @@ set(msg_files
   "msg/TaskProfile.msg"
   "msg/BidNotice.msg"
   "msg/BidProposal.msg"
-  "msg/DispatchRequest.msg"
+  "msg/BidResponse.msg"
+  "msg/DispatchState.msg"
+  "msg/DispatchStates.msg"
+  "msg/DispatchCommand.msg"
   "msg/DispatchAck.msg"
   "msg/Priority.msg"
 )
 
 set(srv_files
+  "srv/ApiService.srv"
   "srv/SubmitTask.srv"
   "srv/CancelTask.srv"
   "srv/ReviveTask.srv"
-  "srv/GetTaskList.srv"
+  "srv/GetDispatchStates.srv"
 )
 
 rosidl_generate_interfaces(${PROJECT_NAME}
