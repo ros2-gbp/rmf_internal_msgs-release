@@ -1,3 +1,36 @@
+## rmf_internal_msgs (rolling) - 2.0.0-1
+
+The packages in the `rmf_internal_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release rmf_internal_msgs --ros-distro rolling --track rolling` on `Mon, 04 Apr 2022 04:06:25 -0000`
+
+These packages were released:
+- `rmf_charger_msgs`
+- `rmf_dispenser_msgs`
+- `rmf_door_msgs`
+- `rmf_fleet_msgs`
+- `rmf_ingestor_msgs`
+- `rmf_lift_msgs`
+- `rmf_site_map_msgs`
+- `rmf_task_msgs`
+- `rmf_traffic_msgs`
+- `rmf_workcell_msgs`
+
+Version of package(s) in repository `rmf_internal_msgs`:
+
+- upstream repository: https://github.com/open-rmf/rmf_internal_msgs.git
+- release repository: https://github.com/ros2-gbp/rmf_internal_msgs-release.git
+- rosdistro version: `1.4.0-2`
+- old version: `1.4.0-2`
+- new version: `2.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.10.7`
+- catkin_pkg version: `0.4.24`
+- rosdep version: `0.21.0`
+- rosdistro version: `0.8.3`
+- vcstools version: `0.1.42`
+
+
 ## rmf_internal_msgs (rolling) - 1.4.0-1
 
 The packages in the `rmf_internal_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release --track rolling --ros-distro rolling rmf_internal_msgs --edit` on `Mon, 06 Sep 2021 04:54:01 -0000`
