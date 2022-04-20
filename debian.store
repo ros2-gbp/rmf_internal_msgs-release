@@ -1,1 +1,1 @@
-{"base": "e5242ab", "parent": "debian/rolling/rmf_dispenser_msgs", "previous": "cf7ad2b", "trim": "", "trimbase": ""}
+{"base": "15a885b", "parent": "debian/humble/rmf_dispenser_msgs", "previous": "89e9203", "trim": "", "trimbase": ""}
