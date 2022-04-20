@@ -1,1 +1,1 @@
-{"base": "2c9dbff", "parent": "debian/rolling/rmf_fleet_msgs", "previous": "64932a0", "trim": "", "trimbase": ""}
+{"base": "5331c2a", "parent": "debian/humble/rmf_fleet_msgs", "previous": "df5a8db", "trim": "", "trimbase": ""}
