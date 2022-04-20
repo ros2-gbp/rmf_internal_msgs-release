@@ -1,1 +1,1 @@
-{"base": "c2e78f6", "parent": "debian/rolling/rmf_door_msgs", "previous": "084a044", "trim": "", "trimbase": ""}
+{"base": "491e5bc", "parent": "debian/humble/rmf_door_msgs", "previous": "3c53fc4", "trim": "", "trimbase": ""}
