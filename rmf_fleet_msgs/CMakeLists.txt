@@ -32,6 +32,9 @@ set(msg_files
   "msg/LaneRequest.msg"
   "msg/ClosedLanes.msg"
   "msg/InterruptRequest.msg"
+  "msg/SpeedLimitedLane.msg"
+  "msg/SpeedLimitRequest.msg"
+  "msg/LaneStates.msg"
 )
 
 set(srv_files
