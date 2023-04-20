@@ -1,1 +1,1 @@
-{"base": "b4dde42", "parent": "debian/rolling/rmf_obstacle_msgs", "previous": "e9a0a12", "trim": "", "trimbase": ""}
+{"base": "53c17b6", "parent": "debian/iron/rmf_obstacle_msgs", "previous": "8964296", "trim": "", "trimbase": ""}
