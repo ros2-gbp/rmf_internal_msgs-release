@@ -1,1 +1,1 @@
-{"base": "3601804", "parent": "debian/rolling/rmf_task_msgs", "previous": "4839d49", "trim": "", "trimbase": ""}
+{"base": "98a0a73", "parent": "debian/iron/rmf_task_msgs", "previous": "0fb99ca", "trim": "", "trimbase": ""}
