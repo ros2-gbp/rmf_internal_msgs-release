@@ -1,0 +1,12 @@
+Source: ros-humble-rmf-ingestor-msgs
+Section: misc
+Priority: optional
+Maintainer: Rushyendra Maganty <rushy_maganty@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-humble-ament-cmake, ros-humble-ament-lint-common <!nocheck>, ros-humble-builtin-interfaces, ros-humble-geometry-msgs, ros-humble-rmf-dispenser-msgs, ros-humble-rosidl-default-generators, ros-humble-ros-workspace, ros-humble-rosidl-typesupport-fastrtps-c, ros-humble-rosidl-typesupport-fastrtps-cpp
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-humble-rmf-ingestor-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-humble-builtin-interfaces, ros-humble-geometry-msgs, ros-humble-rmf-dispenser-msgs, ros-humble-rosidl-default-runtime, ros-humble-ros-workspace
+Description: A package containing messages used to interface to ingestor workcells
