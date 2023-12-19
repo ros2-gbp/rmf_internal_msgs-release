@@ -2,22 +2,21 @@
 Changelog for package rmf_fleet_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-3.1.1 (2023-12-15)
+3.0.4 (2023-12-15)
 ------------------
 * Delivery alerts and beacons (`#60 <https://github.com/open-rmf/rmf_internal_msgs/pull/60>`_)
 * Mutex groups and dynamic charging (`#59 <https://github.com/open-rmf/rmf_internal_msgs/pull/59>`_)
 
-3.1.0 (2023-06-06)
+3.0.3 (2023-06-02)
 ------------------
-* Switch to rst changelogs
 * Version updates from latest release synced to main (`#54 <https://github.com/open-rmf/rmf_internal_msgs/pull/54>`_)
-* Contributors: Esteban Martinena Guerrero, Yadunund
+* Contributors: Esteban Martinena Guerrero
 
 3.0.2 (2022-10-06)
 ------------------
 
 3.0.1 (2022-09-27)
-------------------
+-------------
 * Added SpeedLimitRequest message: (`#43 <https://github.com/open-rmf/rmf_internal_msgs/pull/43>`_)
 * Add LaneStates msg (`#41 <https://github.com/open-rmf/rmf_internal_msgs/pull/41>`_)
 

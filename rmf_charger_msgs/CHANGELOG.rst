@@ -2,14 +2,13 @@
 Changelog for package rmf_charger_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-3.1.1 (2023-12-15)
+3.0.4 (2023-12-15)
 ------------------
 
-3.1.0 (2023-06-06)
+3.0.3 (2023-06-02)
 ------------------
-* Switch to rst changelogs
 * Version updates from latest release synced to main (`#54 <https://github.com/open-rmf/rmf_internal_msgs/pull/54>`_)
-* Contributors: Esteban Martinena Guerrero, Yadunund
+* Contributors: Esteban Martinena Guerrero
 
 3.0.2 (2022-10-06)
 ------------------
@@ -23,4 +22,4 @@ Changelog for package rmf_charger_msgs
 * Introducing the traffic dependency system (`#37 <https://github.com/open-rmf/rmf_internal_msgs/pull/37>`_)
 * Modify ChargerState and RobotMode (`#21 <https://github.com/open-rmf/rmf_internal_msgs/pull/21>`_)
 * Add Enum for completed charging. (`#20 <https://github.com/open-rmf/rmf_internal_msgs/pull/20>`_)
-* Contributors: Arjo Chakravarty, Grey, Yadu
+* Contributors: Arjo Chakravarty, Grey, Yadunund

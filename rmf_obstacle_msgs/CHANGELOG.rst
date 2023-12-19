@@ -2,14 +2,13 @@
 Changelog for package rmf_obstacle_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-3.1.1 (2023-12-15)
+3.0.4 (2023-12-15)
 ------------------
 
-3.1.0 (2023-06-06)
+3.0.3 (2023-06-02)
 ------------------
-* Switch to rst changelogs
 * Version updates from latest release synced to main (`#54 <https://github.com/open-rmf/rmf_internal_msgs/pull/54>`_)
-* Contributors: Esteban Martinena Guerrero, Yadunund
+* Contributors: Esteban Martinena Guerrero
 
 3.0.2 (2022-10-06)
 ------------------
@@ -20,4 +19,5 @@ Changelog for package rmf_obstacle_msgs
 ------------------
 * Replace BoundingBox msgs from vision_msgs with internal variants (`#44 <https://github.com/open-rmf/rmf_internal_msgs/pull/44>`_)
 * Initial rmf_obstacle_msgs (`#42 <https://github.com/open-rmf/rmf_internal_msgs/pull/42>`_)
+* Contributors: Yadunund
 
