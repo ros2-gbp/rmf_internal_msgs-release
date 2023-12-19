@@ -1,9 +1,5 @@
-# rmf_workcell_msgs
+# rmf\_core\_msgs
 
-`rmf_workcell_msgs` provides message types for interacting with workcells.
-
-For more information about ROS 2 interfaces, see [index.ros2.org](https://index.ros.org/doc/ros2/Concepts/About-ROS-Interfaces/)
-
-## Quality Declaration
-
-This package claims to be in the **Quality Level 3** category. See the [Quality Declaration](QUALITY_DECLARATION.md) for more details.
+The message packages contained in this repository provide the internal API of the core of RMF.
+Developers extending RMF or producing alternative implementations of existing components will need to use these messages.
+In general, they are not intended to be used by users of RMF.
