@@ -1,0 +1,35 @@
+ros-rolling-rmf-obstacle-msgs (3.2.1-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yadunund <yadunund@openrobotics.org>  Thu, 14 Dec 2023 16:00:00 -0000
+
+ros-rolling-rmf-obstacle-msgs (3.2.0-1bullseye) bullseye; urgency=high
+
+
+
+ -- Yadunund <yadunund@openrobotics.org>  Wed, 07 Jun 2023 16:00:00 -0000
+
+ros-rolling-rmf-obstacle-msgs (3.1.0-1bullseye) bullseye; urgency=high
+
+  * Switch to rst changelogs
+  * Version updates from latest release synced to main (#54 <https://github.com/open-rmf/rmf_internal_msgs/pull/54>)
+  * Contributors: Esteban Martinena Guerrero, Yadunund
+
+ -- Yadunund <yadunund@openrobotics.org>  Mon, 05 Jun 2023 16:00:00 -0000
+
+ros-rolling-rmf-obstacle-msgs (3.0.2-1bullseye) bullseye; urgency=high
+
+  * Add rosidl_default_generators to rmf_obstacle dependencies (#52 <https://github.com/open-rmf/rmf_internal_msgs/pull/52>)
+  * Contributors: Luca Della Vedova
+
+ -- Yadunund <yadunund@openrobotics.org>  Wed, 05 Oct 2022 16:00:00 -0000
+
+ros-rolling-rmf-obstacle-msgs (3.0.1-1bullseye) bullseye; urgency=high
+
+  * Replace BoundingBox msgs from vision_msgs with internal variants (#44 <https://github.com/open-rmf/rmf_internal_msgs/pull/44>)
+  * Initial rmf_obstacle_msgs (#42 <https://github.com/open-rmf/rmf_internal_msgs/pull/42>)
+
+ -- Yadunund <yadunund@openrobotics.org>  Mon, 26 Sep 2022 16:00:00 -0000
+
+
