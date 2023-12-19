@@ -1,0 +1,27 @@
+ros-humble-rmf-scheduler-msgs (3.0.4-1bullseye) bullseye; urgency=high
+
+
+
+ -- Marco A. Gutiérrez <marco@openrobotics.org>  Thu, 14 Dec 2023 16:00:00 -0000
+
+ros-humble-rmf-scheduler-msgs (3.0.3-1bullseye) bullseye; urgency=high
+
+  * Version updates from latest release synced to main (#54 <https://github.com/open-rmf/rmf_internal_msgs/pull/54>)
+  * Contributors: Esteban Martinena Guerrero
+
+ -- Marco A. Gutiérrez <marco@openrobotics.org>  Thu, 01 Jun 2023 16:00:00 -0000
+
+ros-humble-rmf-scheduler-msgs (3.0.2-1bullseye) bullseye; urgency=high
+
+
+
+ -- Marco A. Gutiérrez <marco@openrobotics.org>  Wed, 05 Oct 2022 16:00:00 -0000
+
+ros-humble-rmf-scheduler-msgs (3.0.1-1bullseye) bullseye; urgency=high
+
+  * Rmf scheduler msgs (#40 <https://github.com/open-rmf/rmf_internal_msgs/pull/40>)
+  * Contributors: Teo Koon Peng
+
+ -- Marco A. Gutiérrez <marco@openrobotics.org>  Mon, 26 Sep 2022 16:00:00 -0000
+
+
