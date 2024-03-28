@@ -1,6 +1,0 @@
-string id
-DeliveryAlertCategory category
-DeliveryAlertTier tier
-string task_id
-DeliveryAlertAction action
-string message
