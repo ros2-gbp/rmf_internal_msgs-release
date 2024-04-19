@@ -1,0 +1,12 @@
+Source: ros-jazzy-rmf-ingestor-msgs
+Section: misc
+Priority: optional
+Maintainer: Rushyendra Maganty <rushy_maganty@openrobotics.org>
+Build-Depends: debhelper (>= 9.0.0), ros-jazzy-ament-cmake, ros-jazzy-ament-lint-common <!nocheck>, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-rmf-dispenser-msgs, ros-jazzy-rosidl-default-generators, ros-jazzy-ros-workspace, ros-jazzy-rosidl-typesupport-fastrtps-c, ros-jazzy-rosidl-typesupport-fastrtps-cpp
+Homepage: 
+Standards-Version: 3.9.2
+
+Package: ros-jazzy-rmf-ingestor-msgs
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-jazzy-builtin-interfaces, ros-jazzy-geometry-msgs, ros-jazzy-rmf-dispenser-msgs, ros-jazzy-rosidl-default-runtime, ros-jazzy-ros-workspace
+Description: A package containing messages used to interface to ingestor workcells
