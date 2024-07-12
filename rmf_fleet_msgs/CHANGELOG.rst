@@ -2,6 +2,11 @@
 Changelog for package rmf_fleet_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+3.1.3 (2024-07-12)
+------------------
+* Mutex group manual release (`#69 <https://github.com/open-rmf/rmf_internal_msgs/issues/69>`_)
+* Contributors: Grey
+
 3.1.2 (2024-03-28)
 ------------------
 
