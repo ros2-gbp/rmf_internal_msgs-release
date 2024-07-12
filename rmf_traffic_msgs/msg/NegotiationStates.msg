@@ -1,2 +1,0 @@
-
-NegotiationState[] negotiations
