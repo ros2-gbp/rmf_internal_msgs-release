@@ -1,1 +1,1 @@
-{"base": "82c008bf", "parent": "debian/rolling/rmf_scheduler_msgs", "previous": "1be78eb2", "trim": "", "trimbase": ""}
+{"base": "a14b85a3403a", "parent": "debian/kilted/rmf_scheduler_msgs", "previous": "5b916a549140", "trim": "", "trimbase": ""}
