@@ -1,0 +1,60 @@
+ros-rolling-rmf-obstacle-msgs (3.5.0-1noble) noble; urgency=high
+
+
+
+ -- Yadunund <yadunund@openrobotics.org>  Fri, 09 May 2025 07:00:00 -0000
+
+ros-rolling-rmf-obstacle-msgs (3.4.1-1noble) noble; urgency=high
+
+
+
+ -- Yadunund <yadunund@openrobotics.org>  Wed, 13 Nov 2024 08:00:00 -0000
+
+ros-rolling-rmf-obstacle-msgs (3.4.0-1noble) noble; urgency=high
+
+
+
+ -- Yadunund <yadunund@openrobotics.org>  Wed, 12 Jun 2024 07:00:00 -0000
+
+ros-rolling-rmf-obstacle-msgs (3.3.0-1noble) noble; urgency=high
+
+  * Added Header to obstacles message (#55 <https://github.com/open-rmf/rmf_internal_msgs/pull/55>)
+  * Contributors: Alejandro Hernández Cordero, Yadunund
+
+ -- Yadunund <yadunund@openrobotics.org>  Sat, 01 Jun 2024 07:00:00 -0000
+
+ros-rolling-rmf-obstacle-msgs (3.2.1-1noble) noble; urgency=high
+
+
+
+ -- Yadunund <yadunund@openrobotics.org>  Fri, 15 Dec 2023 08:00:00 -0000
+
+ros-rolling-rmf-obstacle-msgs (3.2.0-1noble) noble; urgency=high
+
+
+
+ -- Yadunund <yadunund@openrobotics.org>  Thu, 08 Jun 2023 07:00:00 -0000
+
+ros-rolling-rmf-obstacle-msgs (3.1.0-1noble) noble; urgency=high
+
+  * Switch to rst changelogs
+  * Version updates from latest release synced to main (#54 <https://github.com/open-rmf/rmf_internal_msgs/pull/54>)
+  * Contributors: Esteban Martinena Guerrero, Yadunund
+
+ -- Yadunund <yadunund@openrobotics.org>  Tue, 06 Jun 2023 07:00:00 -0000
+
+ros-rolling-rmf-obstacle-msgs (3.0.2-1noble) noble; urgency=high
+
+  * Add rosidl_default_generators to rmf_obstacle dependencies (#52 <https://github.com/open-rmf/rmf_internal_msgs/pull/52>)
+  * Contributors: Luca Della Vedova
+
+ -- Yadunund <yadunund@openrobotics.org>  Thu, 06 Oct 2022 07:00:00 -0000
+
+ros-rolling-rmf-obstacle-msgs (3.0.1-1noble) noble; urgency=high
+
+  * Replace BoundingBox msgs from vision_msgs with internal variants (#44 <https://github.com/open-rmf/rmf_internal_msgs/pull/44>)
+  * Initial rmf_obstacle_msgs (#42 <https://github.com/open-rmf/rmf_internal_msgs/pull/42>)
+
+ -- Yadunund <yadunund@openrobotics.org>  Tue, 27 Sep 2022 07:00:00 -0000
+
+
