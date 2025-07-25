@@ -1,3 +1,39 @@
+## rmf_internal_msgs (rolling) - 4.0.0-1
+
+The packages in the `rmf_internal_msgs` repository were released into the `rolling` distro by running `/usr/bin/bloom-release rmf_internal_msgs -r rolling` on `Fri, 25 Jul 2025 01:29:49 -0000`
+
+These packages were released:
+- `rmf_charger_msgs`
+- `rmf_dispenser_msgs`
+- `rmf_door_msgs`
+- `rmf_fleet_msgs`
+- `rmf_ingestor_msgs`
+- `rmf_lift_msgs`
+- `rmf_obstacle_msgs`
+- `rmf_reservation_msgs`
+- `rmf_scheduler_msgs`
+- `rmf_site_map_msgs`
+- `rmf_task_msgs`
+- `rmf_traffic_msgs`
+- `rmf_workcell_msgs`
+
+Version of package(s) in repository `rmf_internal_msgs`:
+
+- upstream repository: https://github.com/open-rmf/rmf_internal_msgs.git
+- release repository: https://github.com/ros2-gbp/rmf_internal_msgs-release.git
+- rosdistro version: `3.5.0-1`
+- old version: `3.5.0-1`
+- new version: `4.0.0-1`
+
+Versions of tools used:
+
+- bloom version: `0.12.0`
+- catkin_pkg version: `1.0.0`
+- rosdep version: `0.25.1`
+- rosdistro version: `1.0.1`
+- vcstools version: `0.1.42`
+
+
 ## rmf_internal_msgs (kilted) - 3.5.0-1
 
 The packages in the `rmf_internal_msgs` repository were released into the `kilted` distro by running `/usr/bin/bloom-release -r kilted rmf_internal_msgs` on `Tue, 20 May 2025 18:34:00 -0000`
