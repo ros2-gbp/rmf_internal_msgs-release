@@ -1,2 +1,0 @@
-string guid
-string type
