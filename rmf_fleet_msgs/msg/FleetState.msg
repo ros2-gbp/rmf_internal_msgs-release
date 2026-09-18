@@ -1,2 +1,0 @@
-string name
-RobotState[] robots
