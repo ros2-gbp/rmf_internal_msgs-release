@@ -1,4 +1,0 @@
-
-ScheduleQuerySpacetime spacetime
-
-ScheduleQueryParticipants participants
