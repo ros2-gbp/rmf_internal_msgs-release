@@ -2,6 +2,22 @@
 Changelog for package rmf_reservation_msgs
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
+4.3.0 (2026-11-13)
+------------------
+* bump cmake version (`#100 <https://github.com/open-rmf/rmf_internal_msgs/issues/100>`_)
+* rmf_reservation_msgs: Fix license in package.xml (`#99 <https://github.com/open-rmf/rmf_internal_msgs/issues/99>`_)
+  All other packages in this repo specifies full license name, only
+  rmf_reservation_msgs contains a "shortcut". Fix it.
+* Contributors: Aaron Chong, Michal Sojka
+
+4.2.0 (2026-08-14)
+------------------
+
+4.1.0 (2026-08-12)
+------------------
+* Update maintainer email (`#92 <https://github.com/open-rmf/rmf_internal_msgs/issues/92>`_)
+* Contributors: Arjo Chakravarty
+
 4.0.0 (2025-07-24)
 ------------------
 
