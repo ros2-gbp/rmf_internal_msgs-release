@@ -1,0 +1,17 @@
+ros-rolling-rmf-zone-msgs (4.3.0-2trixie) trixie; urgency=high
+
+  * fix version to prep for version bump, update cmake version, add zone msgs to build CI
+  * Add zone messages for GoToZone feature (#91 <https://github.com/open-rmf/rmf_internal_msgs/issues/91>)
+    Co-authored-by: kjchee <mailto:keai_jiang_chee@cgh.com.sg>
+  * Contributors: Aaron Chong, chart
+
+ -- "KJ Chee" <keai_jiang_chee@cgh.com.sg>  Thu, 12 Nov 2026 16:00:00 -0000
+
+ros-rolling-rmf-zone-msgs (4.2.0-2trixie) trixie; urgency=high
+
+  * Initial set of messages for communicating with zones over ROS2
+  * Contributors: KJ Chee
+
+ -- "KJ Chee" <keai_jiang_chee@cgh.com.sg>  Wed, 08 Apr 2026 16:00:00 -0000
+
+
