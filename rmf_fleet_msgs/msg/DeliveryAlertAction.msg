@@ -1,5 +1,0 @@
-uint32 value
-uint32 WAITING=0
-uint32 CANCEL=1
-uint32 OVERRIDE=2
-uint32 RESUME=3
